@@ -19,7 +19,7 @@ Password: iot..2015<br>
 <br>
 
 ### Topics:<br>
-Hierachie - bei uns in der SCule <br>
+Hierachie - bei uns in der Schule <br>
 htl/3xhel/Name/# - gibt alle daten von allen Topics von dieser klasse an.<br>
 <br>
 
