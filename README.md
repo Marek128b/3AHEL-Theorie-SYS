@@ -15,6 +15,7 @@ https://blog.doubleslash.de/mqtt-fuer-dummies/
 MQTT Broker: iotmqtt.htl-klu.at<br>
 Username: htl-IoT<br>
 Password: iot..2015<br>
+Port: 1883<br>
 
 <br>
 
