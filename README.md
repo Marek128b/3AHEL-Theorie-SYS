@@ -11,7 +11,7 @@
     - [Server save:](#server-save)
 ___
 ## MQTT
-![](img/csm_mqtt.png)
+![imgMQTT](img/csm_mqtt.png)
 
 https://blog.doubleslash.de/mqtt-fuer-dummies/
 
@@ -45,7 +45,7 @@ Schule: AlleProgramme\Mikrocontroller\Node-RED<br>
 1. Coppy server IP address paste it to your browser
 
 ### Server config:
-![](img\node-red-config-server.PNG)
+![imgNodeRedConfig](img/node-red-config-server.PNG)
 
 ### Server save:
 1. alles koppieren
