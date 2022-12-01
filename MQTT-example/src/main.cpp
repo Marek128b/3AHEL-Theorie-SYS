@@ -27,8 +27,8 @@ const char* ssid = "htl-IoT";
 const char* password = "iot..2015";
 const char* mqtt_server = "iotmqtt.htl-klu.at";
 
-#define OUT_TOPIC "htl/3xhel/name/out"
-#define IN_TOPIC "htl/3xhel/name/in"
+#define OUT_TOPIC "htl/3ahel/marek/out"
+#define IN_TOPIC "htl/3ahel/marek/in"
 
 WiFiClient espClient;
 PubSubClient client(espClient);
