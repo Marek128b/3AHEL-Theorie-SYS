@@ -7,6 +7,9 @@
     - [Topics:](#topics)
       - [Für Daheim:](#für-daheim)
   - [Node RED:](#node-red)
+    - [Install at Home:](#install-at-home)
+      - [Windows:](#windows)
+    - [School:](#school)
     - [Server config:](#server-config)
     - [Server save:](#server-save)
 ___
@@ -41,6 +44,12 @@ U:\Programme\iot\tools
 
 ___
 ## Node RED: 
+### Install at Home:
+  https://nodered.org/docs/getting-started/
+  #### Windows:
+  https://nodered.org/docs/getting-started/windows
+
+### School:
 Schule: AlleProgramme\Mikrocontroller\Node-RED<br>
 1. Coppy server IP address paste it to your browser
 
