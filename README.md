@@ -12,6 +12,9 @@
     - [School:](#school)
     - [Server config:](#server-config)
     - [Server save:](#server-save)
+  - [Linux:](#linux)
+    - [Was ist Linux:](#was-ist-linux)
+    - [Starten von Linux:](#starten-von-linux)
 ___
 ## MQTT
 ![imgMQTT](img/csm_mqtt.png)
@@ -60,3 +63,13 @@ Schule: AlleProgramme\Mikrocontroller\Node-RED<br>
 1. alles koppieren
 2. rechts oben: Export -> clipboard
 3. STRG + C
+
+___
+## Linux:
+### Was ist Linux:
+### Starten von Linux:
+cmd: `docker run -it ubuntu`  <br>
+Aktuelles verzeichnis aufrufen: `ls` <br>
+Verzeichnis wechseln: `cd` change Directory<br>
+Verzeichnis erstellen: `mkdir` make Directory <br>
+Wichtig!! Linux ist case sensitiv(Groß, Kleinschreibung sind wichtig) <br>
